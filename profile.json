@@ -1,8 +1,8 @@
 {
   "version": 1,
   "login": "UnoVN",
-  "seed": "#75DA5F",
-  "seedFromAvatar": true,
+  "seed": "#B36CFF",
+  "seedFromAvatar": false,
   "scheme": "tonalSpot",
   "motion": true,
   "iconFill": true,
@@ -20,18 +20,18 @@
   "hidden": [],
   "hero": {
     "greeting": "Hi, I'm",
-    "name": "",
+    "name": "plexx",
     "subtitle": "I build interfaces and small useful tools.",
     "typing": true,
     "avatarShape": "cookie12",
     "chips": [
       {
         "icon": "location_on",
-        "label": "Earth"
+        "label": "Ho Chi Minh City, Vietnam"
       },
       {
         "icon": "code",
-        "label": "TypeScript · Python"
+        "label": "Java · Script"
       }
     ]
   },
@@ -118,16 +118,8 @@
   "socials": {
     "items": [
       {
-        "icon": "brand:telegram",
-        "url": "https://t.me/"
-      },
-      {
         "icon": "brand:discord",
-        "url": "https://discord.com/"
-      },
-      {
-        "icon": "brand:x",
-        "url": "https://x.com/"
+        "url": "https://discord.com/ple.cc"
       }
     ],
     "variant": "chip",
