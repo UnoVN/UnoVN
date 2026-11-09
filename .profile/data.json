@@ -1,5 +1,5 @@
 {
- "key": "cad40ecc",
+ "key": "67a8990d",
  "stars": 0,
  "contributions": 461,
  "repos": 7,
@@ -89,9 +89,13 @@
    {
     "c": 0,
     "day": 8,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 9,
     "today": true
    },
-   null,
    null,
    null,
    null,
