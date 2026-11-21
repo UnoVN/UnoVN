@@ -1,5 +1,5 @@
 {
- "key": "fc62464c",
+ "key": "9936d08d",
  "stars": 0,
  "contributions": 471,
  "repos": 8,
@@ -114,9 +114,13 @@
    {
     "c": 0,
     "day": 20,
-    "today": true
+    "today": false
    },
-   null
+   {
+    "c": 0,
+    "day": 21,
+    "today": true
+   }
   ]
  ],
  "streak": {
